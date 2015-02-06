@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WebViewTest</string>
+    <string name="base_url">sakaji-native-dev-tgl10.lv.nndev.net</string>
+    <string name="msg_nowloading">ロード中…</string>
+    <string name="url_auth">/create.php</string>
+    <string name="url_top">/?c=top</string>
+    <string name="url_mypage">/?c=mypage</string>
+    <string name="url_gacha">/?c=gacha&amp;mode=list</string>
+    <string name="url_shop">/?c=item&amp;mode=list</string>
+    <string name="desc">画像</string>
+        
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+</resources>
